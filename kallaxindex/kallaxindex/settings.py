@@ -7,10 +7,10 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'bookstoscrape'
+BOT_NAME = 'kallaxindex'
 
-SPIDER_MODULES = ['bookstoscrape.spiders']
-NEWSPIDER_MODULE = 'bookstoscrape.spiders'
+SPIDER_MODULES = ['kallaxindex.spiders']
+NEWSPIDER_MODULE = 'kallaxindex.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
@@ -39,9 +39,6 @@ DOWNLOAD_DELAY = 1
 
 # Override the default request headers:
 DEFAULT_REQUEST_HEADERS = {
-   ':authority': 'books.toscrape.com',
-   'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
-   'accept-language': 'en-US,en;q=0.9',
    'cache-control': 'max-age=0',
    'dnt': '1',
    'sec-ch-ua': '"Google Chrome";v="105", "Not)A;Brand";v="8", "Chromium";v="105"',

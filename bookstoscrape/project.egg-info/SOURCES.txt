@@ -1,0 +1,13 @@
+setup.py
+bookstoscrape/__init__.py
+bookstoscrape/items.py
+bookstoscrape/middlewares.py
+bookstoscrape/pipelines.py
+bookstoscrape/settings.py
+bookstoscrape/spiders/__init__.py
+bookstoscrape/spiders/booksscraper.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
