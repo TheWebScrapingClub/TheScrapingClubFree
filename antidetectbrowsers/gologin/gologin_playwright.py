@@ -18,8 +18,8 @@ from datetime import datetime
 
 
 gl = GoLogin({
-	"token": "YOURTOKEN",
-	"profile_id": "YOURPROFILEID",
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2M2JkOGZlYjQzN2Q1MDFjNjIzNTZiZmUiLCJ0eXBlIjoiZGV2Iiwiand0aWQiOiI2M2JkOTAzYzI2ZDA0MzZhNjM1MTVhZDAifQ.z3fsylpNK1lBBpdfZTakvS6NHFxZkkbaZoM51oXIz5g",
+	"profile_id": "63bd8feb437d50a3c0356c3f",
 	})
 
 debugger_address = gl.start()
