@@ -1,0 +1,51 @@
+itemurl|status|antibot|website|test_content
+https://www.neimanmarcus.com/p/dolce-gabbana-mens-dg-monogram-swim-shorts-prod257320005?childItemId=NMNAGC2_&navpath=cat000000_cat000470_cat14120827&page=0&position=0|200|PERIMETERX|NEIMAN MARCUS|Dolce&Gabbana Men's DG Monogram Swim Shorts
+https://www.footlocker.it/it/product/~/315347201402.html|200|DATADOME|FOOTLOCKER|"Jordan Aj1 Lv8d Mid | Foot Locker Italy"
+https://www.harrods.com/en-it/shopping/jimmy-choo-x-timberland-crystal-embellished-boots-115-19490140|200|CLOUDFLARE|HARRODS|"Jimmy Choo x Timberland Crystal Embellished Boots 115 | Harrods IT"
+https://www.footlocker.it/it/product/~/315347128902.html|200|DATADOME|FOOTLOCKER|Foot Locker Italy
+https://www.neimanmarcus.com/p/emporio-armani-mens-3-pack-crewneck-cotton-t-shirts-prod236040155?childItemId=NMN7L1S_&navpath=cat000000_cat000470_cat14120827&page=0&position=1|200|PERIMETERX|NEIMAN MARCUS|Emporio Armani Men's 3-Pack Crewneck Cotton T-Shirts
+https://www.harrods.com/en-it/shopping/gucci-double-g-wedge-sandals-120mm-15312673|200|CLOUDFLARE|HARRODS|"Gucci Double G Wedge Sandals 120mm | Harrods IT"
+https://www.footlocker.it/it/product/~/315347102402.html|200|DATADOME|FOOTLOCKER|"Jordan Retro 2 | Foot Locker Italy"
+https://www.neimanmarcus.com/p/siamo-verano-mens-french-terry-jogger-pants-prod248560083?childItemId=NMN8Y0U_24&navpath=cat000000_cat000470_cat14120827&page=0&position=2|200|PERIMETERX|NEIMAN MARCUS|SIAMO VERANO Men's French Terry Jogger Pants
+https://www.harrods.com/en-it/shopping/gucci-new-jordaan-jumbo-gg-marmont-loafers-17668698|200|CLOUDFLARE|HARRODS|"Gucci New Jordaan Jumbo GG Marmont Loafers | Harrods IT"
+https://www.footlocker.it/it/product/~/315347090102.html|200|DATADOME|FOOTLOCKER|Foot Locker Italy
+https://www.footlocker.it/it/product/~/315551638802.html|200|DATADOME|FOOTLOCKER|"Converse Chuck Taylor All Star Lift Hi | Foot Locker Italy"
+https://www.neimanmarcus.com/p/versace-mens-barocco-sleeve-robe-prod257621045?childItemId=NMNAJU4_60&navpath=cat000000_cat000470_cat14120827&page=0&position=3|200|PERIMETERX|NEIMAN MARCUS|Versace Men's Barocco Sleeve Robe
+https://www.harrods.com/en-it/shopping/jimmy-choo-saeda-85-velvet-pumps-18764740|200|CLOUDFLARE|HARRODS|"Jimmy Choo Saeda 85 Velvet Pumps | Harrods IT"
+https://www.footlocker.it/it/product/~/315551634702.html|200|DATADOME|FOOTLOCKER|"Converse Chuck Taylor All Star Lift Hi | Foot Locker Italy"
+https://www.neimanmarcus.com/p/moncler-mens-gallienne-down-knit-vest-prod257700085?childItemId=NMNAJZZ_&navpath=cat000000_cat000470_cat14120827&page=0&position=4|200|PERIMETERX|NEIMAN MARCUS|Moncler Men's Gallienne Down Knit Vest
+https://www.harrods.com/en-it/shopping/amina-muaddi-rosie-glass-pumps-95-16122071|200|CLOUDFLARE|HARRODS|"Amina Muaddi Rosie Glass Pumps 95 | Harrods IT"
+https://www.footlocker.it/it/product/~/315214284002.html|200|DATADOME|FOOTLOCKER|"adidas Response CL | Foot Locker Italy"
+https://www.harrods.com/en-it/shopping/amina-muaddi-satin-begum-slingback-heels-95-15298088|200|CLOUDFLARE|HARRODS|"Amina Muaddi Satin Begum Slingback Heels 95 | Harrods IT"
+https://www.neimanmarcus.com/p/burberry-mens-eddie-monogram-polo-shirt-prod259910331?childItemId=NMNAUZ5_&navpath=cat000000_cat000470_cat14120827&page=0&position=5|200|PERIMETERX|NEIMAN MARCUS|Burberry Men's Eddie Monogram Polo Shirt
+https://www.footlocker.it/it/product/~/315214283202.html|200|DATADOME|FOOTLOCKER|"adidas Response CL | Foot Locker Italy"
+https://www.harrods.com/en-it/shopping/valentino-garavani-valentino-garavani-leather-rockstud-pumps-100-14917030|200|CLOUDFLARE|HARRODS|"Valentino Garavani Valentino Garavani Leather Rockstud Pumps 100 | Harrods IT"
+https://www.neimanmarcus.com/p/puma-x-childhood-dreams-mens-sweatpants-prod259330219?childItemId=NMNARX9_&navpath=cat000000_cat000470_cat14120827&page=0&position=6|200|PERIMETERX|NEIMAN MARCUS|Puma x Childhood Dreams Men's Sweatpants
+https://www.footlocker.it/it/product/~/315347087702.html|200|DATADOME|FOOTLOCKER|"Nike Dunk High | Foot Locker Italy"
+https://www.harrods.com/en-it/shopping/jimmy-choo-sacaria-100-pearl-embellished-satin-sandals-16906083|200|CLOUDFLARE|HARRODS|"Jimmy Choo Sacaria 100 Pearl-Embellished Satin Sandals | Harrods IT"
+https://www.neimanmarcus.com/p/kiton-mens-straight-leg-5-pocket-pants-prod256210383?childItemId=NMNACGV_&navpath=cat000000_cat000470_cat14120827&page=0&position=7|200|PERIMETERX|NEIMAN MARCUS|Kiton Men's Straight Leg 5-Pocket Pants
+https://www.footlocker.it/it/product/adidas-response-cl-donna-scarpe/315214282402.html|200|DATADOME|FOOTLOCKER|"adidas Response CL | Foot Locker Italy"
+https://www.harrods.com/en-it/shopping/valentino-garavani-valentino-garavani-leather-rockstud-pumps-100-14917030|200|CLOUDFLARE|HARRODS|"Valentino Garavani Valentino Garavani Leather Rockstud Pumps 100 | Harrods IT"
+https://www.neimanmarcus.com/p/purple-mens-dropped-fit-distressed-resin-jeans-prod240540268?childItemId=NMN85G7_&navpath=cat000000_cat000470_cat14120827&page=0&position=8|200|PERIMETERX|NEIMAN MARCUS|PURPLE Men's Dropped-Fit Distressed Resin Jeans
+https://www.harrods.com/en-it/shopping/christian-louboutin-kate-patent-leather-pumps-85-16585401|200|CLOUDFLARE|HARRODS|"Christian Louboutin Kate Patent Leather Pumps 85 | Harrods IT"
+https://www.neimanmarcus.com/p/emporio-armani-mens-v-neck-three-pack-t-shirts-prod215790312?childItemId=NMN5RQJ_01&navpath=cat000000_cat000470_cat14120827&page=0&position=9|200|PERIMETERX|NEIMAN MARCUS|Emporio Armani Men's V-Neck Three-Pack T-Shirts
+https://www.canadagoose.com/us/en/sinclair-wind-jacket-2433WB.html|200|KASADA|CANADA GOOSE|Sinclair Wind Jacket
+https://www.nordstrom.com/s/nike-dry-6-pack-everyday-plus-cushion-crew-training-socks/5035662?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing&color=010|200|F5|NORDSTROM|"Nike Dry 6-Pack Everyday Plus Cushion Crew Training Socks | Nordstrom"
+https://www.nordstrom.com/s/robert-barakett-georgia-crewneck-t-shirt/2894832?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing&color=517|502|F5|NORDSTROM|N.A.
+https://www.nordstrom.com/s/topman-icon-bomber-jacket/5750021?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing&color=250|200|F5|NORDSTROM|"Topman Icon Bomber Jacket | Nordstrom"
+https://www.canadagoose.com/us/en/lundell-wind-jacket-2438WB.html|200|KASADA|CANADA GOOSE|Lundell Wind Jacket
+https://www.nordstrom.com/s/vuori-sunday-performance-jogger-sweatpants/5401058?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing&color=440|502|F5|NORDSTROM|N.A.
+https://www.canadagoose.com/us/en/trillium-parka-heritage-6660L.html|200|KASADA|CANADA GOOSE|Trillium Parka Heritage
+https://www.nordstrom.com/s/nordstrom-trim-fit-non-iron-dress-shirt/7080945?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing&color=001|200|F5|NORDSTROM|"Nordstrom Trim Fit Non-Iron Dress Shirt | Nordstrom"
+https://www.nordstrom.com/s/ag-everett-sud-slim-straight-fit-pants/4616604?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing&color=421|502|F5|NORDSTROM|N.A.
+https://www.canadagoose.com/us/en/abbott-hoody-black-label-2220LB.html|200|KASADA|CANADA GOOSE|Abbott Hoody Black Label
+https://www.canadagoose.com/us/en/shelburne-parka-heritage-3802L.html|200|KASADA|CANADA GOOSE|Shelburne Parka Heritage
+https://www.nordstrom.com/s/bear-patch-cotton-hoodie/7317798?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing&color=300|200|F5|NORDSTROM|"Ralph Lauren Purple Label Bear Patch Cotton Hoodie | Nordstrom"
+https://www.canadagoose.com/us/en/mystique-parka-heritage-3035L.html|200|KASADA|CANADA GOOSE|Mystique Parka Heritage
+https://www.canadagoose.com/us/en/simcoe-oversized-fleece-hoody-7016L.html|200|KASADA|CANADA GOOSE|Simcoe Oversized Fleece Hoody
+https://www.nordstrom.com/s/embroidered-bear-cotton-polo/7317821?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing&color=100|502|F5|NORDSTROM|N.A.
+https://www.canadagoose.com/us/en/freestyle-vest-black-label-2836LB.html|200|KASADA|CANADA GOOSE|Freestyle Vest Black Label
+https://www.nordstrom.com/s/adidas-originals-trefoil-6-pack-no-show-socks/7066470?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing&color=001|200|F5|NORDSTROM|"adidas Originals Trefoil 6-Pack No-Show Socks | Nordstrom"
+https://www.nordstrom.com/s/nike-dri-fit-6-pack-everyday-plus-cushioned-low-socks/5851067?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing&color=100|200|F5|NORDSTROM|"Nike Dri-FIT 6-Pack Everyday Plus Cushioned Low Socks | Nordstrom"
+https://www.canadagoose.com/us/en/cypress-hoody-2242W.html|200|KASADA|CANADA GOOSE|Cypress Hoody
+https://www.canadagoose.com/us/en/everleigh-bomber-performance-satin-3853WB.html|200|KASADA|CANADA GOOSE|Everleigh Bomber Performance Satin
