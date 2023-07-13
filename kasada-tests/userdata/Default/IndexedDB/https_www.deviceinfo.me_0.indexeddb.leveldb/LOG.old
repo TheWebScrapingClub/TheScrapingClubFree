@@ -1,0 +1,24 @@
+2023/05/21-11:02:14.504 6603 Reusing MANIFEST /Users/pierluigivinciguerra/Documents/Personal/TheWebScrapingClubFree/kasada-tests/userdata/Default/IndexedDB/https_www.deviceinfo.me_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/21-11:02:14.505 6603 Recovering log #12
+2023/05/21-11:02:14.505 6603 Reusing old log /Users/pierluigivinciguerra/Documents/Personal/TheWebScrapingClubFree/kasada-tests/userdata/Default/IndexedDB/https_www.deviceinfo.me_0.indexeddb.leveldb/000012.log 
+2023/05/21-11:02:14.527 7903 Level-0 table #16: started
+2023/05/21-11:02:14.566 7903 Level-0 table #16: 501 bytes OK
+2023/05/21-11:02:14.605 7903 Delete type=0 #12
+2023/05/21-11:02:14.606 6603 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x00\x00\x05' @ 43 : 1
+2023/05/21-11:02:14.607 6603 Compacting 1@0 + 1@1 files
+2023/05/21-11:02:14.628 6603 Generated table #17@0: 11 keys, 439 bytes
+2023/05/21-11:02:14.628 6603 Compacted 1@0 + 1@1 files => 439 bytes
+2023/05/21-11:02:14.684 6603 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/21-11:02:14.685 6603 Delete type=2 #16
+2023/05/21-11:02:14.685 6603 Manual compaction at level-0 from '\x00\x03\x00\x00\x05' @ 43 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/21-11:04:45.660 7903 Level-0 table #19: started
+2023/05/21-11:04:45.681 7903 Level-0 table #19: 497 bytes OK
+2023/05/21-11:04:45.723 7903 Delete type=0 #15
+2023/05/21-11:04:45.724 7903 Delete type=2 #10
+2023/05/21-11:04:45.724 7903 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\x05' @ 62 : 1
+2023/05/21-11:04:45.724 7903 Compacting 1@0 + 1@1 files
+2023/05/21-11:04:45.744 7903 Generated table #20@0: 11 keys, 434 bytes
+2023/05/21-11:04:45.744 7903 Compacted 1@0 + 1@1 files => 434 bytes
+2023/05/21-11:04:45.781 7903 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/21-11:04:45.781 7903 Delete type=2 #19
+2023/05/21-11:04:45.782 7903 Manual compaction at level-0 from '\x00\x04\x00\x00\x05' @ 62 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

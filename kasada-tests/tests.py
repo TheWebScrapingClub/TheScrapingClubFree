@@ -8,12 +8,6 @@ from pyppeteer_stealth import stealth
 
 
 
-driver = uc.Chrome()
-driver.get("https://www.canadagoose.com/us/en/home-page")
-driver.set_window_size(1000, 900)
-time.sleep(10)
-driver.save_screenshot('uc_kasada.png')
-
 CHROMIUM_ARGS= [
 		'--no-sandbox',
 		'--disable-setuid-sandbox',
@@ -23,38 +17,15 @@ CHROMIUM_ARGS= [
 with sync_playwright() as p:
 	browser = p.chromium.launch_persistent_context(user_data_dir='./userdata/', channel="chrome", headless=False,slow_mo=200, args=CHROMIUM_ARGS,ignore_default_args=["--enable-automation"])
 	page = browser.new_page()
-	page.goto('https://www.canadagoose.com/us/en/home-page', timeout=0)
+	page.goto('https://www.deviceinfo.me/', timeout=0)
 	time.sleep(10)
-	page.screenshot(path="pl_kasada.png")
-
+	i=0
 	
-with sync_playwright() as p:
-	browser = p.firefox.launch(headless=False, slow_mo=300)
-	page = browser.new_page()
-	page.goto('https://www.canadagoose.com/us/en/home-page', timeout=0)
-	time.sleep(10)
-	page.screenshot(path="pl_f_kasada.png")
-
-gl = GoLogin({
-	"token": "YOUR TOKEN",
-	"profile_id": 'PROFILE ID TO ATTACH',
-})
-debugger_address = gl.start()
-with sync_playwright() as p:
-	browser = p.chromium.connect_over_cdp("http://"+debugger_address)
-	page = browser.new_page()
-	gl.normalizePageView(page)
-	page.goto('https://www.canadagoose.com/us/en/home-page', timeout=0)
-	time.sleep(10)
-	page.screenshot(path="pl_g_kasada.png")
-	browser.close()
+	while i < 60:
+		page.screenshot(path="pl_deviceinfo_"+str(i)+".png")
+		page.mouse.wheel(0,500)
+		time.sleep(2)
+		print(i)
+		i=i+1
 	
-async def main():
-	browser = await launch(headless=False)
-	page = await browser.newPage()
-	await stealth(page)
-	await page.goto("https://www.canadagoose.com/us/en/home-page")
-	time.sleep(10)
-	await page.screenshot({'path': 'py_kasada.png'})
-	await browser.close()
-asyncio.get_event_loop().run_until_complete(main())
+
