@@ -1,0 +1,102 @@
+itemurl|status|antibot|website|test_content
+https://scrape.infatica.io/|200|PERIMETERX|NEIMAN MARCUS|"Dolce&Gabbana Men's DG Monogram Swim Shorts | Neiman Marcus"
+https://scrape.infatica.io/|200|PERIMETERX|NEIMAN MARCUS|"Emporio Armani Men's 3-Pack Crewneck Cotton T-Shirts | Neiman Marcus"
+https://scrape.infatica.io/|200|PERIMETERX|NEIMAN MARCUS|"SIAMO VERANO Men's French Terry Jogger Pants | Neiman Marcus"
+https://scrape.infatica.io/|200|PERIMETERX|NEIMAN MARCUS|"Versace Men's Barocco Sleeve Robe | Neiman Marcus"
+https://scrape.infatica.io/|200|PERIMETERX|NEIMAN MARCUS|"Moncler Men's Gallienne Down Knit Vest | Neiman Marcus"
+https://scrape.infatica.io/|200|PERIMETERX|NEIMAN MARCUS|"Burberry Men's Eddie Monogram Polo Shirt | Neiman Marcus"
+https://scrape.infatica.io/|200|PERIMETERX|NEIMAN MARCUS|"Puma x Childhood Dreams Men's Sweatpants | Neiman Marcus"
+https://scrape.infatica.io/|200|PERIMETERX|NEIMAN MARCUS|"Kiton Men's Straight Leg 5-Pocket Pants | Neiman Marcus"
+https://scrape.infatica.io/|200|PERIMETERX|NEIMAN MARCUS|"PURPLE Men's Dropped-Fit Distressed Resin Jeans | Neiman Marcus"
+https://scrape.infatica.io/|200|PERIMETERX|NEIMAN MARCUS|"Emporio Armani Men's V-Neck Three-Pack T-Shirts | Neiman Marcus"
+https://scrape.infatica.io/|200|CLOUDFLARE|HARRODS|Harrods — Challenge
+https://scrape.infatica.io/|200|CLOUDFLARE|HARRODS|Harrods — Challenge
+https://scrape.infatica.io/|200|CLOUDFLARE|HARRODS|Harrods — Challenge
+https://scrape.infatica.io/|200|CLOUDFLARE|HARRODS|Harrods — Challenge
+https://scrape.infatica.io/|200|CLOUDFLARE|HARRODS|Harrods — Challenge
+https://scrape.infatica.io/|200|CLOUDFLARE|HARRODS|Harrods — Challenge
+https://scrape.infatica.io/|200|CLOUDFLARE|HARRODS|Harrods — Challenge
+https://scrape.infatica.io/|200|CLOUDFLARE|HARRODS|Harrods — Challenge
+https://scrape.infatica.io/|200|CLOUDFLARE|HARRODS|Harrods — Challenge
+https://scrape.infatica.io/|200|KASADA|CANADA GOOSE|N.A.
+https://scrape.infatica.io/|200|CLOUDFLARE|HARRODS|Harrods — Challenge
+https://scrape.infatica.io/|200|KASADA|CANADA GOOSE|N.A.
+https://scrape.infatica.io/|200|KASADA|CANADA GOOSE|N.A.
+https://scrape.infatica.io/|200|KASADA|CANADA GOOSE|N.A.
+https://scrape.infatica.io/|200|KASADA|CANADA GOOSE|N.A.
+https://scrape.infatica.io/|200|KASADA|CANADA GOOSE|N.A.
+https://scrape.infatica.io/|200|KASADA|CANADA GOOSE|N.A.
+https://scrape.infatica.io/|200|KASADA|CANADA GOOSE|N.A.
+https://scrape.infatica.io/|200|KASADA|CANADA GOOSE|N.A.
+https://scrape.infatica.io/|200|KASADA|CANADA GOOSE|N.A.
+https://scrape.infatica.io/|200|F5|NORDSTROM|N.A.
+https://scrape.infatica.io/|200|F5|NORDSTROM|N.A.
+https://scrape.infatica.io/|200|F5|NORDSTROM|N.A.
+https://scrape.infatica.io/|200|F5|NORDSTROM|N.A.
+https://scrape.infatica.io/|200|F5|NORDSTROM|N.A.
+https://scrape.infatica.io/|200|F5|NORDSTROM|N.A.
+https://scrape.infatica.io/|200|F5|NORDSTROM|N.A.
+https://scrape.infatica.io/|200|F5|NORDSTROM|N.A.
+https://scrape.infatica.io/|200|F5|NORDSTROM|N.A.
+https://scrape.infatica.io/|200|F5|NORDSTROM|N.A.
+https://scrape.infatica.io/|200|DATADOME|FOOTLOCKER|Foot Locker Italy
+https://scrape.infatica.io/|200|DATADOME|FOOTLOCKER|Foot Locker Italy
+https://scrape.infatica.io/|200|DATADOME|FOOTLOCKER|"Jordan Retro 2 | Foot Locker Italy"
+https://scrape.infatica.io/|200|DATADOME|FOOTLOCKER|Foot Locker Italy
+https://scrape.infatica.io/|200|DATADOME|FOOTLOCKER|Foot Locker Italy
+https://scrape.infatica.io/|200|DATADOME|FOOTLOCKER|Foot Locker Italy
+https://scrape.infatica.io/|200|DATADOME|FOOTLOCKER|"adidas Response CL | Foot Locker Italy"
+https://scrape.infatica.io/|200|DATADOME|FOOTLOCKER|"adidas Response CL | Foot Locker Italy"
+https://scrape.infatica.io/|200|DATADOME|FOOTLOCKER|"Nike Dunk High | Foot Locker Italy"
+https://scrape.infatica.io/|200|DATADOME|FOOTLOCKER|"adidas Response CL | Foot Locker Italy"
+itemurl|status|antibot|website|test_content
+https://scrape.infatica.io/|200|PERIMETERX|NEIMAN MARCUS|Access to this page has been denied.
+https://scrape.infatica.io/|200|PERIMETERX|NEIMAN MARCUS|Access to this page has been denied.
+https://scrape.infatica.io/|200|PERIMETERX|NEIMAN MARCUS|Access to this page has been denied.
+https://scrape.infatica.io/|200|PERIMETERX|NEIMAN MARCUS|Access to this page has been denied.
+https://scrape.infatica.io/|200|PERIMETERX|NEIMAN MARCUS|Access to this page has been denied.
+https://scrape.infatica.io/|200|PERIMETERX|NEIMAN MARCUS|Access to this page has been denied.
+https://scrape.infatica.io/|200|PERIMETERX|NEIMAN MARCUS|Access to this page has been denied.
+https://scrape.infatica.io/|200|PERIMETERX|NEIMAN MARCUS|Access to this page has been denied.
+https://scrape.infatica.io/|200|PERIMETERX|NEIMAN MARCUS|Access to this page has been denied.
+https://scrape.infatica.io/|200|PERIMETERX|NEIMAN MARCUS|Access to this page has been denied.
+https://scrape.infatica.io/|200|CLOUDFLARE|HARRODS|"Jimmy Choo x Timberland Crystal Embellished Boots 115 | Harrods IT"
+https://scrape.infatica.io/|200|CLOUDFLARE|HARRODS|"Gucci Double G Wedge Sandals 120mm | Harrods IT"
+https://scrape.infatica.io/|200|CLOUDFLARE|HARRODS|"Gucci New Jordaan Jumbo GG Marmont Loafers | Harrods IT"
+https://scrape.infatica.io/|200|CLOUDFLARE|HARRODS|"Jimmy Choo Saeda 85 Velvet Pumps | Harrods IT"
+https://scrape.infatica.io/|200|CLOUDFLARE|HARRODS|"Amina Muaddi Rosie Glass Pumps 95 | Harrods IT"
+https://scrape.infatica.io/|200|CLOUDFLARE|HARRODS|"Amina Muaddi Satin Begum Slingback Heels 95 | Harrods IT"
+https://scrape.infatica.io/|200|CLOUDFLARE|HARRODS|"Valentino Garavani  Leather Rockstud Pumps 100 | Harrods IT"
+https://scrape.infatica.io/|200|CLOUDFLARE|HARRODS|"Jimmy Choo Sacaria 100 Pearl-Embellished Satin Sandals | Harrods IT"
+https://scrape.infatica.io/|200|CLOUDFLARE|HARRODS|"Christian Louboutin Kate Patent Pumps 85 | Harrods IT"
+https://scrape.infatica.io/|200|CLOUDFLARE|HARRODS|"Valentino Garavani  Leather Rockstud Pumps 100 | Harrods IT"
+https://scrape.infatica.io/|200|KASADA|CANADA GOOSE|N.A.
+https://scrape.infatica.io/|200|KASADA|CANADA GOOSE|N.A.
+https://scrape.infatica.io/|200|KASADA|CANADA GOOSE|N.A.
+https://scrape.infatica.io/|200|KASADA|CANADA GOOSE|N.A.
+https://scrape.infatica.io/|200|KASADA|CANADA GOOSE|N.A.
+https://scrape.infatica.io/|200|KASADA|CANADA GOOSE|N.A.
+https://scrape.infatica.io/|200|KASADA|CANADA GOOSE|N.A.
+https://scrape.infatica.io/|200|KASADA|CANADA GOOSE|N.A.
+https://scrape.infatica.io/|200|KASADA|CANADA GOOSE|N.A.
+https://scrape.infatica.io/|200|KASADA|CANADA GOOSE|N.A.
+https://scrape.infatica.io/|200|F5|NORDSTROM|N.A.
+https://scrape.infatica.io/|200|F5|NORDSTROM|N.A.
+https://scrape.infatica.io/|200|F5|NORDSTROM|N.A.
+https://scrape.infatica.io/|200|F5|NORDSTROM|N.A.
+https://scrape.infatica.io/|200|F5|NORDSTROM|N.A.
+https://scrape.infatica.io/|200|F5|NORDSTROM|N.A.
+https://scrape.infatica.io/|200|F5|NORDSTROM|N.A.
+https://scrape.infatica.io/|200|F5|NORDSTROM|N.A.
+https://scrape.infatica.io/|200|F5|NORDSTROM|N.A.
+https://scrape.infatica.io/|200|F5|NORDSTROM|N.A.
+https://scrape.infatica.io/|200|DATADOME|FOOTLOCKER|footlocker.it
+https://scrape.infatica.io/|200|DATADOME|FOOTLOCKER|footlocker.it
+https://scrape.infatica.io/|200|DATADOME|FOOTLOCKER|footlocker.it
+https://scrape.infatica.io/|200|DATADOME|FOOTLOCKER|footlocker.it
+https://scrape.infatica.io/|200|DATADOME|FOOTLOCKER|footlocker.it
+https://scrape.infatica.io/|200|DATADOME|FOOTLOCKER|footlocker.it
+https://scrape.infatica.io/|200|DATADOME|FOOTLOCKER|footlocker.it
+https://scrape.infatica.io/|200|DATADOME|FOOTLOCKER|footlocker.it
+https://scrape.infatica.io/|200|DATADOME|FOOTLOCKER|footlocker.it
+https://scrape.infatica.io/|200|DATADOME|FOOTLOCKER|footlocker.it
