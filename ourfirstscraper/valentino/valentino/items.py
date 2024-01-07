@@ -20,4 +20,3 @@ class ValentinoItem(scrapy.Item):
 	gender = scrapy.Field()
 	product_category = scrapy.Field()
 	product_subcategory = scrapy.Field()
-    pass
