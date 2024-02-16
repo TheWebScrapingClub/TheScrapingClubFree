@@ -1,0 +1,6 @@
+# Feel free to add your Python dependencies below. For formatting guidelines, see:
+# https://pip.pypa.io/en/latest/reference/requirements-file-format/
+
+apify[scrapy] ~= 1.5.0
+nest-asyncio ~= 1.5.8
+scrapy ~= 2.11.0

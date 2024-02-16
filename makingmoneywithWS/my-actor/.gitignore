@@ -1,0 +1,33 @@
+# IDE
+.idea/
+.vscode/
+.DS_Store
+
+# Apify storage folder
+storage/
+
+# Python virtual environment
+.venv/
+.env/
+
+# Python (and python tools) cache files
+__pycache__/
+*.pyc
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+
+# Python build files
+__pypackages__/
+dist/
+build/
+*.egg-info/
+*.egg
+
+# log files
+*.log
+
+# Added by Apify CLI
+storage
+node_modules
+.venv
