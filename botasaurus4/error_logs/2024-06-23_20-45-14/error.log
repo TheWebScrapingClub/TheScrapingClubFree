@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/botasaurus/browser_decorator.py", line 173, in run_task
+    result = func(driver, data)
+  File "/Users/pierluigivinciguerra/Documents/Personal/TheWebScrapingClubFree/Botasaurus4/cloudflare.py", line 16, in scrape_heading_task
+    product_name = product.find('a > h3').text
+AttributeError: 'NoneType' object has no attribute 'text'
