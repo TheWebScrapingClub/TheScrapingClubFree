@@ -1,0 +1,43 @@
+itemurl|status|antibot|website|test_content
+https://www.google.com|200|PERIMETERX|CRUNCHBASE|N.A.
+https://www.crunchbase.com|200|PERIMETERX|CRUNCHBASE|N.A.
+https://www.crunchbase.com/organization/mubadala-ventures|200|PERIMETERX|CRUNCHBASE|N.A.
+https://www.crunchbase.com/organization/luma-ai|200|PERIMETERX|CRUNCHBASE|N.A.
+https://www.crunchbase.com/organization/tackle-io|200|PERIMETERX|CRUNCHBASE|N.A.
+https://www.crunchbase.com/organization/databoutique-co|200|PERIMETERX|CRUNCHBASE|N.A.
+https://www.crunchbase.com/organization/konghq|200|PERIMETERX|CRUNCHBASE|N.A.
+https://www.crunchbase.com/organization/redis|200|PERIMETERX|CRUNCHBASE|N.A.
+https://www.crunchbase.com/organization/bank-of-kaohsiung|200|PERIMETERX|CRUNCHBASE|N.A.
+https://www.crunchbase.com/organization/wiz-inc|200|PERIMETERX|CRUNCHBASE|N.A.
+https://www.crunchbase.com/organization/brev-dev|200|PERIMETERX|CRUNCHBASE|N.A.
+https://www.crunchbase.com/organization/affinity-equity-partners|200|PERIMETERX|CRUNCHBASE|N.A.
+https://www.indeed.com/jobs?q=python+developer&l=Remote|200|CLOUDFLARE|INDEED|save-icon
+https://www.indeed.com/jobs?q=ruby+developer&l=Remote|200|CLOUDFLARE|INDEED|save-icon
+https://www.indeed.com/jobs?q=c%2B%2B+developer&l=Remote|200|CLOUDFLARE|INDEED|save-icon
+https://www.indeed.com/jobs?q=java+developer&l=Remote|200|CLOUDFLARE|INDEED|save-icon
+https://www.indeed.com/jobs?q=blockchain+developer&l=Remote|200|CLOUDFLARE|INDEED|save-icon
+https://www.indeed.com/jobs?q=cloud+architect&l=Remote|200|CLOUDFLARE|INDEED|save-icon
+https://www.indeed.com/jobs?q=data+scientist&l=Remote|200|CLOUDFLARE|INDEED|save-icon
+https://www.indeed.com/jobs?q=cloud+administrator&l=Remote|200|CLOUDFLARE|INDEED|save-icon
+https://www.indeed.com/jobs?q=cloud+engineer&l=Remote|200|CLOUDFLARE|INDEED|save-icon
+https://www.indeed.com/jobs?q=data+analyst&l=Remote|200|CLOUDFLARE|INDEED|save-icon
+https://www.canadagoose.com/us/en/marlow-parka-3900W.html|200|KASADA|CANADA GOOSE|N.A.
+https://www.canadagoose.com/us/en/trillium-parka-6660W.html|200|KASADA|CANADA GOOSE|N.A.
+https://www.canadagoose.com/us/en/bala-parka-8809W.html|200|KASADA|CANADA GOOSE|N.A.
+https://www.canadagoose.com/us/en/shelburne-parka-3802W.html|200|KASADA|CANADA GOOSE|N.A.
+https://www.canadagoose.com/us/en/rossclair-parka-2580W.html|200|KASADA|CANADA GOOSE|N.A.
+https://www.canadagoose.com/us/en/elmvale-parka-3831W.html|200|KASADA|CANADA GOOSE|N.A.
+https://www.canadagoose.com/us/en/lorette-parka-heritage-2090L.html|200|KASADA|CANADA GOOSE|N.A.
+https://www.canadagoose.com/us/en/shelburne-parka-heritage-3802L.html|200|KASADA|CANADA GOOSE|N.A.
+https://www.canadagoose.com/us/en/trillium-parka-heritage-6660L.html|200|KASADA|CANADA GOOSE|N.A.
+https://www.canadagoose.com/us/en/ellesmere-parka-6555L.html|200|KASADA|CANADA GOOSE|N.A.
+https://www.footlocker.it/it/product/~/315347201402.html|200|DATADOME|FOOTLOCKER|N.A.
+https://www.footlocker.it/it/product/adidas-firebird-pleather-donna-pantaloni/317991924730.html|200|DATADOME|FOOTLOCKER|N.A.
+https://www.footlocker.it/it/product/~/314108614604.html|200|DATADOME|FOOTLOCKER|N.A.
+https://www.footlocker.it/it/product/~/314210573904.html|200|DATADOME|FOOTLOCKER|N.A.
+https://www.footlocker.it/it/product/~/317369652830.html|200|DATADOME|FOOTLOCKER|N.A.
+https://www.footlocker.it/it/product/~/317369653379.html|200|DATADOME|FOOTLOCKER|N.A.
+https://www.footlocker.it/it/product/~/317369649980.html|200|DATADOME|FOOTLOCKER|N.A.
+https://www.footlocker.it/it/product/~/317368914444.html|200|DATADOME|FOOTLOCKER|N.A.
+https://www.footlocker.it/it/product/~/317368738720.html|200|DATADOME|FOOTLOCKER|N.A.
+https://www.footlocker.it/it/product/~/317363804770.html|200|DATADOME|FOOTLOCKER|N.A.
