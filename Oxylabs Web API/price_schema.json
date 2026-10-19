@@ -1,0 +1,35 @@
+{
+  "type": "object",
+  "properties": {
+    "product_name": {
+      "type": "string"
+    },
+    "price": {
+      "type": "number",
+      "description": "Current price the buyer pays, as a number"
+    },
+    "currency": {
+      "type": "string",
+      "description": "ISO 4217 code"
+    },
+    "availability": {
+      "type": "string",
+      "enum": [
+        "in_stock",
+        "out_of_stock",
+        "preorder",
+        "unknown"
+      ]
+    },
+    "seller": {
+      "type": "string",
+      "nullable": true
+    }
+  },
+  "required": [
+    "product_name",
+    "price",
+    "currency",
+    "availability"
+  ]
+}
